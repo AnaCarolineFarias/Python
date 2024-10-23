@@ -9,6 +9,7 @@ Meu nome é **Ana Caroline de Oliveira Farias**. Sou uma desenvolvedora apaixona
 ## Sobre o Projeto
 
 Este repositório contém [Estudos e pequenos desenvolvimentos que fiz e estou fazendo em Python]. A ideia principal é [Mostrar minhas habilidades nesta linguagem, mostrar que estou indo atrás do conhecimento e aprimorando ela]. 
+
 ![Logo Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 ### Tecnologias Utilizadas
