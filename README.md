@@ -4,16 +4,18 @@ Olá! 👋 Seja bem-vindo(a) aos meu projetos. Estes repositórios é um espaço
 
 ## Sobre Mim
 
-Meu nome é **Ana Caroline de Oliveira Farias**. Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de aprender algo novo e de compartilhar conhecimento com a comunidade. Gosto de trabalhar com SQL, TypeScript, JavaScript e tecnologias Web de preferência BackEnd e estou sempre explorando novas ferramentas e técnicas para melhorar minhas habilidades.
+Meu nome é **Ana Caroline de Oliveira Farias**. Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de aprender algo novo e de compartilhar conhecimento com a comunidade. Gosto de trabalhar com **SQL**, **TypeScript**, **JavaScript**, **PHP** e tecnologias Web de preferência **BackEnd** e estou sempre explorando novas ferramentas e técnicas para melhorar minhas habilidades.
 
 ## Sobre o Projeto
 
-Este repositório contém [Estudos e pequenos desenvolvimentos que fiz e estou fazendo em Python]. A ideia principal é [Mostrar minhas habilidades nesta linguagem, mostrar que estou indo atrás do conhecimento e aprimorando ela]. 
+Este repositório contém [Estudos e pequenos desenvolvimentos que fiz e estou fazendo em **Python**]. A ideia principal é [Mostrar minhas habilidades nesta linguagem, mostrar que estou indo atrás do conhecimento e aprimorando ela]. 
 
-![Logo Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Logo Python" width="50">
 
-### Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Linguagem:** Python
-- **VS Code**
+
+## Ferramentas Utilizadas
+- **Visual Studio Code**
 
